@@ -1,5 +1,23 @@
 # Changelog
 
+## [20.14.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v20.13.0...v20.14.0) (2024-09-11)
+
+
+### Features
+
+* **add:** 929003116301, 929003116401, 929003116501, 929003116601 ([#7968](https://github.com/Koenkk/zigbee-herdsman-converters/issues/7968)) ([c29cbf7](https://github.com/Koenkk/zigbee-herdsman-converters/commit/c29cbf7ac7a3301cb6f6f91ab85f25f6bf5ae41c))
+* OWON PC 321 - support clear measurement data ([#7895](https://github.com/Koenkk/zigbee-herdsman-converters/issues/7895)) ([42a3c21](https://github.com/Koenkk/zigbee-herdsman-converters/commit/42a3c2120ed19afb99100b74258368d23fa5194b))
+
+
+### Bug Fixes
+
+* Fix `preset` value for Tuya ZWT198/ZWT100-BH ([#7966](https://github.com/Koenkk/zigbee-herdsman-converters/issues/7966)) ([f843534](https://github.com/Koenkk/zigbee-herdsman-converters/commit/f843534c9094c1573034b0c51620fd35b38a9eaf))
+* Fix Ubisys C4 integration ([#7972](https://github.com/Koenkk/zigbee-herdsman-converters/issues/7972)) ([a699873](https://github.com/Koenkk/zigbee-herdsman-converters/commit/a699873ae2246b460ad1be0d8a7cd95b4c33c2c3))
+* **ignore:** Add more Third Reality custom clusters  ([#7969](https://github.com/Koenkk/zigbee-herdsman-converters/issues/7969)) ([3ef88dd](https://github.com/Koenkk/zigbee-herdsman-converters/commit/3ef88dd28bcf6802f255465e07676a189e360a73))
+* **ignore:** Add more Third Reality custom clusters ([#7967](https://github.com/Koenkk/zigbee-herdsman-converters/issues/7967)) ([e24cbb0](https://github.com/Koenkk/zigbee-herdsman-converters/commit/e24cbb092455e92768e718c0c459b68b921fb906))
+* **ignore:** Add more Third Reality custom clusters ([#7970](https://github.com/Koenkk/zigbee-herdsman-converters/issues/7970)) ([cc4c516](https://github.com/Koenkk/zigbee-herdsman-converters/commit/cc4c5168054f37ad633ee67924499bf8c161c35b))
+* **ignore:** Improve performance when logging is disabled ([#7955](https://github.com/Koenkk/zigbee-herdsman-converters/issues/7955)) ([decaa92](https://github.com/Koenkk/zigbee-herdsman-converters/commit/decaa92b5a8ad8ded8e2e6d7c086518f46d9a03f))
+
 ## [20.13.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v20.12.1...v20.13.0) (2024-09-09)
 
 
